@@ -2,10 +2,3 @@
 Practice Repository
 
 Cameron Lettieri
- / \
-/   \
-| | |
- \ \
-| | |
-\   /
- \ /
